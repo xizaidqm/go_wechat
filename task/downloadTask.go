@@ -64,7 +64,6 @@ func (task *DownloadTask) Start() {
 
 			<- task.routines
 		}()
-
 	}
 
 }
