@@ -2,12 +2,12 @@ package task
 
 import (
 	"encoding/json"
-	"entity"
+	"wechat_spider/src/entity"
 	"io/ioutil"
 	"log"
 	"math/rand"
 	"net/http"
-	"proxy"
+	"wechat_spider/src/proxy"
 	"strconv"
 	"strings"
 	"sync"

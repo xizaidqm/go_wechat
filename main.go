@@ -1,10 +1,10 @@
 package main
 
 import (
-	"entity"
+	"wechat_spider/src/entity"
 	"fmt"
 	"sync"
-	"task"
+	"wechat_spider/src/task"
 	"time"
 )
 

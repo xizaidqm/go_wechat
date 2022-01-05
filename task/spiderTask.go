@@ -2,7 +2,7 @@ package task
 
 import (
 	"bufio"
-	"entity"
+	"wechat_spider/src/entity"
 	"fmt"
 	"os"
 	"sync"

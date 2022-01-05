@@ -1,7 +1,7 @@
 package task
 
 import (
-	"entity"
+	"wechat_spider/src/entity"
 	"fmt"
 	"github.com/antchfx/htmlquery"
 	"github.com/petermattis/goid"
@@ -12,7 +12,7 @@ import (
 	"net/http"
 	"os"
 	"os/exec"
-	"proxy"
+	"wechat_spider/src/proxy"
 	"strings"
 	"sync"
 	"time"
